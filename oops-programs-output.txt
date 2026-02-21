@@ -1,0 +1,75 @@
+====================================================================================================
+PROJECT EXPORT FOR LLMs
+====================================================================================================
+
+PROJECT INFORMATION:
+--------------------------------------------------
+Project Name: oops-programs
+Generated On: 2026-02-03 11:14:43 (Asia/Calcutta / GMT+06:30)
+Total Files Processed: 3
+Export Tool: Easy Whole Project to Single Text File for LLMs v1.1.0
+Tool Author: Jota / José Guilherme Pandolfi
+
+EXPORT CONFIGURATION:
+--------------------------------------------------
+Language: en
+Max File Size: 1 MB
+Include Hidden Files: false
+Output Format: both
+Notification Level: minimal
+Custom File Name Pattern: {workspaceName}-output
+
+================================================================================
+PROJECT STRUCTURE
+================================================================================
+├── 📄 cpp (43 B)
+├── 📄 p1.txt
+└── 📄 p2
+
+================================================================================
+PROJECT STATISTICS
+================================================================================
+Total Files: 3
+Total Directories: 0
+Text Files: 1
+Binary Files: 2
+Total Size: 43 B
+
+FILE TYPES DISTRIBUTION:
+------------------------------
+no extension    : 2
+.txt            : 1
+
+================================================================================
+FILE CODE CONTENTS
+================================================================================
+
+
+================================================================================
+FILE: p1.txt
+================================================================================
+
+FILE INFORMATION:
+----------------------------------------
+Size: 0 B
+Extension: .txt
+Language: text
+Location: p1.txt
+Relative Path: root
+Created: 2026-02-03 11:14:43 (Asia/Calcutta / GMT+06:30)
+Modified: 2026-02-03 11:14:43 (Asia/Calcutta / GMT+06:30)
+MD5: d41d8cd98f00b204e9800998ecf8427e
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Encoding: ASCII
+
+FILE CONTENT:
+----------------------------------------
+
+================================================================================
+
+
+================================================================================
+BINARY/EXCLUDED FILES (not included in text content)
+================================================================================
+- cpp
+- p2
